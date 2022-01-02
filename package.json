@@ -1,6 +1,7 @@
 {
   "name": "iles-app",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "iles dev --open",
     "build": "iles build",
